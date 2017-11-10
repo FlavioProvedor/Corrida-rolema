@@ -24,13 +24,13 @@ Com o objetivo de conhecer a <a href="https://unity3d.com">Unity Engine</a> opte
   Objetivo principal desde o começo foi relizar algo simples que tivesse início e um produto final. Neste caso um jogo.
   <br><br>
   
-  Os desafios listados fizeram o trabalho parecer muito dificil em alguns momentos mas se atentar ao propósito de manter o produto final simples ajudou a tranpor obstáculos. Também limitaram o que seria o jogo.
+  Os desafios listados fizeram o trabalho parecer muito dificil em alguns momentos mas se atentar ao propósito de manter o produto final simples ajudou a transpor obstáculos. Também limitaram o que seria o jogo.
   </p>
   
   ### Proposta de jogo
   <p>
   O jogo ficou assim:
-    Um carrinho de rolimã controlado pelas teclas W,S,A e D que se movimenta em uma pista reta, apesar de ter desenvovido outra pista para teste, que durante seu percurso vai coletando notas de 2,50 ou 100 reais, somando a pontuação de acordo com a nota coletada até o final da pista.
+    Um carrinho de rolimã controlado pelas teclas W,S,A e D que se movimenta em uma pista reta, apesar de ter desenvovido outra pista para teste, que durante seu percurso vai coletando notas de 2, 50 ou 100 reais, somando a pontuação de acordo com a nota coletada até o final da pista.
   <img src="https://lh3.googleusercontent.com/0HXDeX7iUsctvfm9PUyAvLqDOF9Sz3PeRyPbSaoUuIgSk6bpYfI0LABiRnedjqPdrgaeymAT9TikVeZjLqw6WXU79bi6sWR8c7iVvULajs5gp8gHLP4L-FOB9xcfiMYlGjuj7Li3lYd4QtubRALaGddvZSya4itUQZGBS6VsULBL79XzBDPoUrEU4G6RbLp45Ds3mYFqjDtmqYLBWTJS_Nt_DsiGl88Iin65HksMxKKt15Bg6IjRSeOy4MxAOwWiWP7RG2vvwncTprbdUpjRb_QC7OVuxAoCabPVU2lK7uKP8lTtgXDABhTTjmIkCurCI1RHfgI-TBaqoyyp0EOtqZ2zJjxOF8cp4CsWXpdGHd_mt2NLqqfpw56HFQuTgT4zI7GJ5YB1gIAdr4ODAkf0wOxYF1yA0P7vyS40k6kuI8405WBqX8uATFWeGNRNiJn9F4vSJf8P58buJegIg9A8qkBLdeGwZ9nAnVg98OKFWVFZ9EYsnt1gLGSvwMjWt6NOiEPWBF8uiNTNG4sTeP6IypcFYxlnq7N5VU3UW38nsBPtRSigr2ALbt2yBr1zu-U17E3sXUCS_bJjW2Gtc65aTcEkh_LkICAznsoOVMNx4ZE1Z4-8OT2u1F2DLkABcgOMOZlo8_p5opZDScxL2KqkbT7rCWhC7v5DlMM=w1688-h949-no" width="1643" />
   </p>
   
