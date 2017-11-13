@@ -1,7 +1,7 @@
-# Corrida-rolema
-<p>Corrida de rolema projetado em Unity 3d.<br>
+ra# Corrida-rolema
+<p>Corrida de rolema elaborado em Unity 3d.<br>
 Inicio Outubro de 2017<br>
-Ternimo 09 de novenbro de 2017<br>
+Termino 09 de novenbro de 2017<br>
 Projeto para estudo da Unity Engine desevolvendo um jogo simples de carrinho de rolema.<br><br>
 </p>
 
